@@ -23,7 +23,7 @@ const Footer = () => {
               Shantanu Shukla
             </Link>
           </span>
-          💘
+          
         </p>
       </div>
     </footer>
